@@ -1,15 +1,13 @@
 # My cuda infos
 
-Portage brute d'un script C vers Python inspiré de Jan Schlüter et modifier par Just1B
+Portage brut d'un script C vers Python inspiré de Jan Schlüter et modifié par Just1B
 
 # Utilisation
 
 ```sh
 cd ~
 git clone https://github.com/Just1B/NvidiaCard_infos.git NvidiaCard
-```
 
-```sh
 cd NvidiaCard
 ./cuda.py
 ```
