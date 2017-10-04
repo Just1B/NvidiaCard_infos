@@ -12,6 +12,11 @@ cd NvidiaCard
 ./cuda.py
 ```
 
+# Daemon
+
+```sh
+nvidia-smi dmon
+```
 ![index](https://github.com/Just1B/NvidiaCard_infos/raw/master/screen/screen.png)
 
 ### LICENSE
